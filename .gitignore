@@ -1,0 +1,11 @@
+*.bin
+
+*.img
+
+*.iso
+
+*.vhd
+
+*.vmdk
+
+*.log
