@@ -92,4 +92,4 @@ HyperLightOS-16/
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-Note: This Os is currently HyperLightOS-16 which is 16bit, newer releases lik HyperLightOS-32 and HyperLightOS-64 willbe released after some update on HyperLightOS-16
+Note: This HyperLightOS is currently 16bit is currently HyperLightOS-16 which is 16bit, newer releases lik HyperLightOS-32 and HyperLightOS-64 willbe released after some update on HyperLightOS-16
