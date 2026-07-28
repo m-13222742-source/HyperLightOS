@@ -1,21 +1,74 @@
-MIT License
+# HyperLightOS License (HOSL) Version 1.0
 
-Copyright (c) 2026 Zarif
+Copyright (c) 2026 Zarif. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Copyright
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+HyperLightOS, including all source code, binaries, documentation, graphics, logos, artwork, and related materials, is protected by copyright law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+No ownership rights are transferred to any user of this software.
+
+## 2. Permission
+
+You are granted permission to:
+
+* Download HyperLightOS.
+* Use HyperLightOS for personal, educational, and research purposes.
+* Study and modify the source code for personal use.
+* Create experimental forks for learning purposes.
+
+## 3. Restrictions
+
+You may not:
+
+* Sell HyperLightOS or any modified version without written permission from the copyright holder.
+* Redistribute modified versions under the name "HyperLightOS."
+* Remove copyright notices.
+* Claim authorship of the original project.
+* Use HyperLightOS trademarks in a way that suggests endorsement by the copyright holder.
+
+## 4. Contributions
+
+Any contributions submitted to the HyperLightOS project remain the intellectual property of their respective authors unless otherwise agreed.
+
+By submitting a contribution, you grant the project a perpetual, worldwide, non-exclusive license to use, modify, distribute, and incorporate that contribution into HyperLightOS.
+
+## 5. Warranty
+
+The author intends to maintain HyperLightOS and may provide updates or bug fixes at their discretion.
+
+Except where explicitly stated in writing, HyperLightOS is provided "as is."
+
+No guarantee is made that the software will be error-free, uninterrupted, or suitable for every purpose.
+
+## 6. Liability
+
+To the maximum extent permitted by applicable law, the author shall not be liable for indirect, incidental, consequential, or special damages arising from the use of HyperLightOS.
+
+If liability cannot legally be excluded, the author's total liability shall be limited to direct damages only.
+
+## 7. Trademark
+
+"HyperLightOS", the HyperLightOS logo, and any official project branding are trademarks of Zarif unless otherwise stated.
+
+Permission to use the source code does not grant permission to use the HyperLightOS name, logo, or branding for modified versions without written authorization.
+
+Unofficial forks must clearly indicate that they are unofficial and must not imply endorsement by the original project.
+
+## 8. Termination
+
+Any violation of this license automatically terminates the permissions granted under it.
+
+## 9. Governing Law
+
+This license shall be interpreted according to the laws applicable in the jurisdiction of the copyright holder unless otherwise required by law.
+
+## 10. Contact
+
+Project:
+HyperLightOS
+
+GitHub:
+https://github.com/m-13222742-source/HyperLightOS
+
+Copyright © 2026 Zarif. All Rights Reserved.
